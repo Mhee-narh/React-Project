@@ -1,0 +1,40 @@
+.testimonialSection h3{
+    text-align: center;
+    font-size: 36px;
+    color: #242424;
+}
+
+.testimonialSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 50px 0;
+    
+}
+
+.testimonial{
+    width: 80%;
+}
+
+.testimonial img{
+   width: 80%;
+    margin: 40px 0;
+}
+
+.testimonialButton{
+    /* width: 800px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.testimonialButton button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #ffff;
+    border: 1px solid #242424;
+    border-radius: 10px;
+    padding: 5px 10px;
+}

@@ -1,0 +1,142 @@
+.heroButtons button{
+    background-color:#219653;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 30px;
+    font-size: 14px;
+    width: 200px;
+}
+
+.heroSection{
+    background-image: linear-gradient(to right, #e1faec,#e0e1f6, #faf9d9);
+    display: flex;
+    align-items: center;
+    padding: 20px 50px ;
+    gap: 2rem;
+}
+
+.heroRight{
+    flex-basis: 50%;
+}
+
+.heroLeft{
+    flex-basis: 50%;
+}
+
+.heroRight img{
+    width: 100%;
+    max-width: 600px;
+    height: auto; 
+
+}
+
+
+.heroLeft h1{
+    font-size: 3rem;
+}
+
+.heroLeft h5{
+    font-size: 1rem;
+    margin: 20px 0;
+}
+
+.heroButtons{
+    display: flex;
+    gap: 2rem;
+}
+
+
+.hero-buttons .button2{
+    background-color:#ffffff ;
+    color: #219653;
+    border:2px solid #219653;
+
+}
+
+@media(min-width: 1500px){
+    .heroRight img {
+        max-width: 1900px;  
+    }
+    .heroLeft h1 {
+        font-size: 5rem;
+    }
+
+    .heroLeft h5 {
+        font-size: 2.5rem;
+    }
+
+    .heroButtons button {
+        font-size: 18px;
+        width: 300px;
+    }
+}
+
+
+@media (max-width: 1050px) {
+    .heroLeft h1{
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .heroSection{
+       padding: 20px;
+    }
+
+    .heroLeft h1 {
+        font-size: 2rem;
+    }
+
+    .heroButtons button {
+        font-size: 10px;
+        width: 150px;
+    }
+
+    .heroButtons {
+        gap: 0.5rem;
+    }
+
+    .heroLeft h5 {
+        font-size: 0.8rem;
+    }
+}
+
+/* @media (max-width: 700px) {
+    .heroSection{
+        flex-direction: column;
+    }
+} */
+
+@media (max-width: 600px) {
+    .heroButtons button {
+        font-size: 8px;
+        width: 120px;
+        padding: 5px;
+    }
+
+    .heroLeft h1 {
+        font-size: 1rem;
+    }
+
+    .heroLeft h5{
+        font-size: 0.5rem;
+    }
+}
+
+@media(max-width: 400px){
+    .heroLeft h1{
+        font-size: 0.5rem;
+    }
+
+    .heroLeft h5{
+        font-size: 0.25rem;
+        margin: 5px 0;
+    }
+
+    .heroButtons button {
+        font-size: 5px;
+        width: 80px;
+        padding: 2px;
+    }
+
+}
