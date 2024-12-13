@@ -1,7 +1,7 @@
 import './Footer.css'
-import instagramLogo from './assets/instagram.png'
-import linkedlnLogo from './assets/linkedln.png'
-import facebookLogo from './assets/facebook.png'
+import instagramLogo from '../assets/instagram.png'
+import linkedlnLogo from '../assets/linkedln.png'
+import facebookLogo from '../assets/facebook.png'
 
 function Footer(){
     return(

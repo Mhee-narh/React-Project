@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Find Well trained & vetted Engineers",
+        "description": "Plug into a reliable source of quality and save valuable time on recruitments" 
+      },
+      {
+        "id":2,
+        "title":"Avoid Unplanned Talent exit",
+        "description": "Enjoy a minimum 2 years commitment from our Engineers when you hire through our fellowship program" 
+      },
+      {
+        "id":3,
+        "title":"Talent Performance Support",
+        "description": "We offer Performance management support to keep your team productive" 
+      }
+]

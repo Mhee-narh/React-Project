@@ -1,5 +1,5 @@
 import './Talent.css'
-import talentImage from './assets/image2.png'
+import talentImage from '../assets/image2.png'
 
 
 function Talent(){

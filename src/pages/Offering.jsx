@@ -1,5 +1,5 @@
 import './Offering.css'
-import offeringImage from './assets/image2.png'
+import offeringImage from '../assets/image2.png'
 
 function Offering(){
     return(

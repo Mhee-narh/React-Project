@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Frontend Developer",
+      "image": "Decagon-website/src/assets/jane.avif"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "Backend Developer",
+      "image": "../assets/john.avif"
+    },
+    {
+      "id": 3,
+      "name": "Catherine Green",
+      "role": "Full Stack Developer",
+      "image": "/assets/jane.avif"
+    },
+    {
+      "id": 4,
+      "name": "Daniel Lee",
+      "role": "Mobile Developer",
+      "image": "/assets/john.avif"
+    },
+    {
+      "id": 5,
+      "name": "Emma White",
+      "role": "UI/UX Designer",
+      "image": "/assets/jane.avif"
+    },
+    {
+      "id": 6,
+      "name": "Frank Brown",
+      "role": "DevOps Engineer",
+      "image": "/assets/john.avif"
+    },
+    {
+      "id": 7,
+      "name": "Grace Wilson",
+      "role": "QA Engineer",
+      "image": "/assets/jane.avif"
+    },
+    {
+      "id": 8,
+      "name": "Henry Taylor",
+      "role": "Data Scientist",
+      "image": "/assets/john.avif"
+    }
+  ]
+  

@@ -1,10 +1,10 @@
 import './Company.css'
 
-import carbonIcon from './assets/carbon.png'
-import accessIcon from './assets/access.png'
-import unionIcon from './assets/union.png'
-import nestleIcon from './assets/nestle.webp'
-import sterlingIcon from './assets/sterling.png'
+import carbonIcon from '../assets/carbon.png'
+import accessIcon from '../assets/access.png'
+import unionIcon from '../assets/union.png'
+import nestleIcon from '../assets/nestle.webp'
+import sterlingIcon from '../assets/sterling.png'
 
 function Company(){
     return(

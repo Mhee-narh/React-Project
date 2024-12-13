@@ -1,5 +1,5 @@
 import './Testimonial.css'
-import testimonialImage from './assets/image3.png'
+import testimonialImage from '../assets/image3.png'
 
 
 function Testimonial(){
